@@ -11560,7 +11560,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: characterLines.Array.data[3]
-      value: He reached Round 3 of the British Physics Olympiad, putting in him the
+      value: He reached Round 3 of the British Physics Olympiad, putting him in the
         top 15 nationally of over 1700 entrants.
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
