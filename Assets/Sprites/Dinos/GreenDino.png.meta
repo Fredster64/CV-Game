@@ -96,6 +96,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -700,6 +701,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      GreenDino_17: 4702887892278982581
+      GreenDino_13: 9134597473894857464
+      GreenDino_14: 6718834418826211521
+      GreenDino_1: 358292182136492839
+      GreenDino_22: -1076066464012688039
+      GreenDino_20: 4696051424253231623
+      GreenDino_8: -5791099244827185630
+      GreenDino_12: 619270806805832920
+      GreenDino_16: -8842233287567328874
+      GreenDino_7: 7680977445812940255
+      GreenDino_21: -3264347134817044160
+      GreenDino_3: 2289344459890556234
+      GreenDino_5: -5414290831750902050
+      GreenDino_0: 4842234950849876231
+      GreenDino_9: 5715701012577153194
+      GreenDino_10: 5535004265401994304
+      GreenDino_15: -1766126933191739807
+      GreenDino_18: -7803335298135086463
+      GreenDino_11: 5902589778571446609
+      GreenDino_2: 231844592863381177
+      GreenDino_23: -495649721529697242
+      GreenDino_4: -655273570726367714
+      GreenDino_19: -5354243561969754907
+      GreenDino_6: -5870404518951706816
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

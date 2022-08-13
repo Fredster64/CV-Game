@@ -309,6 +309,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2404,6 +2405,102 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      tundraDecoration_1_31: -3833449367850696065
+      tundraDecoration_1_47: 2498047330610312355
+      tundraDecoration_1_91: 160009167723937254
+      tundraDecoration_1_65: 5004530286922009711
+      tundraDecoration_1_35: 6055563052234339991
+      tundraDecoration_1_75: -99620041323604509
+      tundraDecoration_1_7: 706822870070283717
+      tundraDecoration_1_94: 721337456994212773
+      tundraDecoration_1_33: 4222516805518757885
+      tundraDecoration_1_59: 1531070229410251202
+      tundraDecoration_1_89: -3794763807089573563
+      tundraDecoration_1_92: 4602630325552844011
+      tundraDecoration_1_90: -1421844427776077450
+      tundraDecoration_1_24: -6105536083452149408
+      tundraDecoration_1_16: 3422102671788021518
+      tundraDecoration_1_30: 3007141221442526089
+      tundraDecoration_1_29: 2202261223754617863
+      tundraDecoration_1_54: 6286834084154327976
+      tundraDecoration_1_67: -134677010838640860
+      tundraDecoration_1_78: 840763828490749318
+      tundraDecoration_1_39: 6610364180015361604
+      tundraDecoration_1_36: 7242393465438887818
+      tundraDecoration_1_21: -600961528973742098
+      tundraDecoration_1_69: -1651863121395162606
+      tundraDecoration_1_5: -8961214949883977856
+      tundraDecoration_1_45: -8939906335909412103
+      tundraDecoration_1_88: -742592883462298148
+      tundraDecoration_1_37: -652245787983336710
+      tundraDecoration_1_0: -3050077335455092027
+      tundraDecoration_1_20: -8663978320002039862
+      tundraDecoration_1_42: 7697219620086799254
+      tundraDecoration_1_38: 3964814396531263517
+      tundraDecoration_1_74: 1326957768953602228
+      tundraDecoration_1_86: 389459106963259246
+      tundraDecoration_1_85: 4391147893321150369
+      tundraDecoration_1_73: 1399624338754949857
+      tundraDecoration_1_1: -2129755978672553934
+      tundraDecoration_1_34: 9119901930633744396
+      tundraDecoration_1_62: 6922721860107025985
+      tundraDecoration_1_46: -6375001745825716768
+      tundraDecoration_1_93: -6136405660005683559
+      tundraDecoration_1_14: 5938967457233605518
+      tundraDecoration_1_81: 3422366910641898487
+      tundraDecoration_1_8: 2615792301126273137
+      tundraDecoration_1_10: -3645685979666332719
+      tundraDecoration_1_17: -8461683314837337776
+      tundraDecoration_1_23: 3435062709234676495
+      tundraDecoration_1_4: -1699705094535022127
+      tundraDecoration_1_18: -1498630253717429132
+      tundraDecoration_1_9: -3318364951721202760
+      tundraDecoration_1_41: 4917490041103164283
+      tundraDecoration_1_51: 6065763133996188968
+      tundraDecoration_1_32: -2262770708329714358
+      tundraDecoration_1_53: 8728113923437278192
+      tundraDecoration_1_56: -6237241055092006691
+      tundraDecoration_1_19: 3263962623268381359
+      tundraDecoration_1_50: 3870036441802076986
+      tundraDecoration_1_26: -1095423879791855390
+      tundraDecoration_1_60: -5941757198976749351
+      tundraDecoration_1_58: 1728704716020843357
+      tundraDecoration_1_66: -6828178018065306535
+      tundraDecoration_1_71: -7494622586083561799
+      tundraDecoration_1_3: 8989549312163476753
+      tundraDecoration_1_13: 904939744787614050
+      tundraDecoration_1_48: 840431304448724479
+      tundraDecoration_1_40: -6366389193346454795
+      tundraDecoration_1_57: 927836308475290498
+      tundraDecoration_1_28: -847479410481236008
+      tundraDecoration_1_52: -1649791872907110309
+      tundraDecoration_1_84: 4697741387745280039
+      tundraDecoration_1_76: -1025865398177374258
+      tundraDecoration_1_15: 3098789544738414854
+      tundraDecoration_1_43: -1400843391316836655
+      tundraDecoration_1_70: -1846158154917487693
+      tundraDecoration_1_11: 7631987799017728354
+      tundraDecoration_1_87: 6065542767431272042
+      tundraDecoration_1_49: 4931474952833302646
+      tundraDecoration_1_22: 940902359030760063
+      tundraDecoration_1_79: -2611452869324070436
+      tundraDecoration_1_27: 2138855124968757870
+      tundraDecoration_1_77: -5755577684446576098
+      tundraDecoration_1_6: -3509368583161813317
+      tundraDecoration_1_55: 3884506422780332261
+      tundraDecoration_1_82: 3617562628462017997
+      tundraDecoration_1_12: 4677537555971605788
+      tundraDecoration_1_25: 2988252096407902909
+      tundraDecoration_1_2: 4091943064455997344
+      tundraDecoration_1_64: -7583100540588350343
+      tundraDecoration_1_63: 8141212753767502087
+      tundraDecoration_1_44: -7637026947259399174
+      tundraDecoration_1_80: -6163997983653680497
+      tundraDecoration_1_68: 5777898877625702258
+      tundraDecoration_1_83: 6219592384796517414
+      tundraDecoration_1_61: 7661219270591234016
+      tundraDecoration_1_72: -5879857079759936961
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

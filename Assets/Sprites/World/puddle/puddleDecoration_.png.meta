@@ -204,6 +204,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1564,6 +1565,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      puddleDecoration__7: -7163549351669812203
+      puddleDecoration__10: -8696927810419829994
+      puddleDecoration__30: -6426992031189026884
+      puddleDecoration__8: 2460983869693301345
+      puddleDecoration__13: 8280359128955034281
+      puddleDecoration__41: 8939251096353808773
+      puddleDecoration__33: 4469047562399805505
+      puddleDecoration__36: -7518570467949958202
+      puddleDecoration__52: -2572539776025140832
+      puddleDecoration__12: 8397354141123284528
+      puddleDecoration__29: -715296298058902439
+      puddleDecoration__50: -6557648201144332289
+      puddleDecoration__53: 7373002518556335524
+      puddleDecoration__5: 2888095278204767817
+      puddleDecoration__58: 8862239690040131726
+      puddleDecoration__31: 1773457002279847120
+      puddleDecoration__21: 508494562561761998
+      puddleDecoration__27: -3951486939671938155
+      puddleDecoration__43: -4723414858751339569
+      puddleDecoration__54: 8891991215960934810
+      puddleDecoration__26: 5512928805185541028
+      puddleDecoration__39: 7073683936212923624
+      puddleDecoration__25: -6729676909324528676
+      puddleDecoration__48: -1263151317045467088
+      puddleDecoration__3: -486128875478554843
+      puddleDecoration__59: 1735333896361125475
+      puddleDecoration__40: 5686043515801738052
+      puddleDecoration__19: -4399822502178530092
+      puddleDecoration__34: 7707192403773707087
+      puddleDecoration__11: -394907063796581479
+      puddleDecoration__20: -3730132898829740785
+      puddleDecoration__9: -434720605260504440
+      puddleDecoration__28: 65247433844516176
+      puddleDecoration__14: 952563764091636077
+      puddleDecoration__16: 574573241505511202
+      puddleDecoration__17: 7640578187646193385
+      puddleDecoration__32: 6542845027929326161
+      puddleDecoration__44: -6512236687215630574
+      puddleDecoration__57: -9199190534868401872
+      puddleDecoration__56: 4797194222982670318
+      puddleDecoration__51: -2106154787812980396
+      puddleDecoration__6: -3573707666459668398
+      puddleDecoration__35: -6158353085617864144
+      puddleDecoration__37: -576295414975623761
+      puddleDecoration__0: -7041466218033899523
+      puddleDecoration__46: 649894528218312780
+      puddleDecoration__24: -3297296006842956609
+      puddleDecoration__45: -1792479741058736252
+      puddleDecoration__49: -8604011717211884018
+      puddleDecoration__55: -5621086170899957096
+      puddleDecoration__47: -8293941687612458347
+      puddleDecoration__23: -7438936527435468105
+      puddleDecoration__1: -342475581532853623
+      puddleDecoration__15: 5229162069246086432
+      puddleDecoration__4: 8751153129261481997
+      puddleDecoration__18: 4834795301979574144
+      puddleDecoration__22: -8133331030200696740
+      puddleDecoration__42: -8070568646186328910
+      puddleDecoration__2: -2093515855480656704
+      puddleDecoration__38: -1922410755184396492
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

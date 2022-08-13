@@ -309,6 +309,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2404,6 +2405,102 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      swampDecoration_1_41: -7018637557674144667
+      swampDecoration_1_93: -7976729577440367903
+      swampDecoration_1_17: -4999186789732851496
+      swampDecoration_1_74: 1907499891378787853
+      swampDecoration_1_14: -3318591960144682092
+      swampDecoration_1_43: 8174481480077198712
+      swampDecoration_1_72: -8539360158507959929
+      swampDecoration_1_28: -1797563528862799414
+      swampDecoration_1_92: 8260508050046208752
+      swampDecoration_1_45: 4921791364712269872
+      swampDecoration_1_0: 4902803855201123203
+      swampDecoration_1_49: -529073582938037374
+      swampDecoration_1_80: -4233223819957818756
+      swampDecoration_1_53: -4055175293055683755
+      swampDecoration_1_57: -7782740928825149000
+      swampDecoration_1_4: 6957161405329608763
+      swampDecoration_1_61: 1234944550442056408
+      swampDecoration_1_85: -9103800253796173180
+      swampDecoration_1_91: 1404960256926072352
+      swampDecoration_1_22: 7363489898623872076
+      swampDecoration_1_39: -6398518707102692017
+      swampDecoration_1_71: 7763576727825132800
+      swampDecoration_1_34: -7104132138552763616
+      swampDecoration_1_24: 279878135875364149
+      swampDecoration_1_89: 7541415046356201568
+      swampDecoration_1_56: -1226358223508287454
+      swampDecoration_1_47: 6224334694747652064
+      swampDecoration_1_36: -7889800598167907558
+      swampDecoration_1_65: 5490867995394902791
+      swampDecoration_1_66: -5544349305826374427
+      swampDecoration_1_77: 8293576239777825581
+      swampDecoration_1_68: 6966084343340247257
+      swampDecoration_1_26: -8232549991576580316
+      swampDecoration_1_81: -6768436348500551388
+      swampDecoration_1_20: -684199813241306596
+      swampDecoration_1_84: -9135218783878214966
+      swampDecoration_1_62: 3662952743703913480
+      swampDecoration_1_25: 7919817209621960873
+      swampDecoration_1_11: 2091886531982879662
+      swampDecoration_1_23: -4505407189091256204
+      swampDecoration_1_42: 250828332423090751
+      swampDecoration_1_51: -2597775379277466944
+      swampDecoration_1_1: 5047103002997025328
+      swampDecoration_1_76: -7523590669179210360
+      swampDecoration_1_38: -7868549426833653060
+      swampDecoration_1_73: 6798654258702818477
+      swampDecoration_1_82: 3306274107855475096
+      swampDecoration_1_64: -4190437906839733789
+      swampDecoration_1_75: -2421875063078021177
+      swampDecoration_1_63: -3654364528841236801
+      swampDecoration_1_79: 6718672048131217415
+      swampDecoration_1_32: 8839943710131422865
+      swampDecoration_1_13: 5402965091075783941
+      swampDecoration_1_3: 2372178807589178432
+      swampDecoration_1_87: -3721967512855868880
+      swampDecoration_1_67: -5884906022246979096
+      swampDecoration_1_86: -1442504241791906141
+      swampDecoration_1_30: -252766204679904325
+      swampDecoration_1_7: -6172912545447047923
+      swampDecoration_1_59: -1203541060668574923
+      swampDecoration_1_29: -2521633988156079140
+      swampDecoration_1_27: -5743016969608725608
+      swampDecoration_1_90: 4876352994143579110
+      swampDecoration_1_21: 1256720788246497445
+      swampDecoration_1_55: -6089723684548842793
+      swampDecoration_1_88: 8566718514158820185
+      swampDecoration_1_50: 371924693637020797
+      swampDecoration_1_37: -1328894797265215484
+      swampDecoration_1_70: 1158844074502128396
+      swampDecoration_1_83: 930129151762877926
+      swampDecoration_1_10: -7941295940936959240
+      swampDecoration_1_46: 1746771313636527849
+      swampDecoration_1_16: 391833638819835898
+      swampDecoration_1_69: -2923719482036514928
+      swampDecoration_1_33: 7192934476261037085
+      swampDecoration_1_18: -374276207931313622
+      swampDecoration_1_54: 6149621168916604238
+      swampDecoration_1_6: 2902079836188110530
+      swampDecoration_1_35: 5505650624824937350
+      swampDecoration_1_15: 1327771071956506875
+      swampDecoration_1_2: 8024039100450354653
+      swampDecoration_1_31: -1715733859367117458
+      swampDecoration_1_12: 8524724575678430893
+      swampDecoration_1_19: 6069270753732208869
+      swampDecoration_1_9: 779578951403798133
+      swampDecoration_1_5: 618238408797966606
+      swampDecoration_1_40: -6622544001099790327
+      swampDecoration_1_78: -8143362079767871203
+      swampDecoration_1_60: -6087341197704197511
+      swampDecoration_1_8: -313456186255313971
+      swampDecoration_1_48: 4708914243326935581
+      swampDecoration_1_94: -7381280061259319737
+      swampDecoration_1_52: -5223335149147148531
+      swampDecoration_1_58: -8301125516737956324
+      swampDecoration_1_44: -5765635378758609991
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

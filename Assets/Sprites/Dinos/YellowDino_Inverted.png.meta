@@ -96,6 +96,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -700,6 +701,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      YellowDino_Inverted_9: -8500942478972567058
+      YellowDino_Inverted_5: -3725352879843617281
+      YellowDino_Inverted_7: -1934198805754721561
+      YellowDino_Inverted_11: 3517313521455269254
+      YellowDino_Inverted_8: 7044768216668261305
+      YellowDino_Inverted_2: -1076050909499042280
+      YellowDino_Inverted_3: -8910453805382112455
+      YellowDino_Inverted_19: -8777233745356723660
+      YellowDino_Inverted_1: 7433350556270837933
+      YellowDino_Inverted_4: 4077169615005459269
+      YellowDino_Inverted_0: 7262910688356355900
+      YellowDino_Inverted_12: 544978780484117906
+      YellowDino_Inverted_20: 8644604019549084652
+      YellowDino_Inverted_23: 5598260770231459209
+      YellowDino_Inverted_18: -7395350033113540453
+      YellowDino_Inverted_10: -7095580842806491666
+      YellowDino_Inverted_6: -485542716473774264
+      YellowDino_Inverted_21: 5716342840795589357
+      YellowDino_Inverted_22: 422241848006690495
+      YellowDino_Inverted_14: 8512562230427301079
+      YellowDino_Inverted_15: -3525632378492535760
+      YellowDino_Inverted_17: -6484449990865004381
+      YellowDino_Inverted_13: 6269209046238055283
+      YellowDino_Inverted_16: -6938813061444067050
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -162,6 +162,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1228,6 +1229,53 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      tundraDecoration_0_8: -4323303364527770009
+      tundraDecoration_0_26: 7349436544775434840
+      tundraDecoration_0_37: 2931009351781435521
+      tundraDecoration_0_0: -4392648774742677929
+      tundraDecoration_0_2: -8671861739952993965
+      tundraDecoration_0_30: -43882673271785820
+      tundraDecoration_0_12: 2245042428245253651
+      tundraDecoration_0_24: 1882467395785005020
+      tundraDecoration_0_34: -4088481813087615611
+      tundraDecoration_0_14: -2285483952648162298
+      tundraDecoration_0_19: -5389623140010613647
+      tundraDecoration_0_16: 1251776042128886032
+      tundraDecoration_0_33: 949192788516945099
+      tundraDecoration_0_45: -8468149309623362059
+      tundraDecoration_0_42: 8694649746002969569
+      tundraDecoration_0_3: 8487043592273735270
+      tundraDecoration_0_27: 4775117698347844724
+      tundraDecoration_0_40: 3855525083578995375
+      tundraDecoration_0_39: 9009256988734840806
+      tundraDecoration_0_25: -7659654292169869507
+      tundraDecoration_0_44: -8650935962816751064
+      tundraDecoration_0_5: -8080919227794628139
+      tundraDecoration_0_10: -3196919239219757364
+      tundraDecoration_0_15: 3213733598080125875
+      tundraDecoration_0_18: -4721125094051175827
+      tundraDecoration_0_23: -6789926096081228686
+      tundraDecoration_0_35: 1899133950422762912
+      tundraDecoration_0_20: 5448261840537396480
+      tundraDecoration_0_7: 1494448272750411069
+      tundraDecoration_0_11: -5390200801441178164
+      tundraDecoration_0_31: -9009559441577761524
+      tundraDecoration_0_41: 7178898645278550047
+      tundraDecoration_0_9: -3346700381285611084
+      tundraDecoration_0_28: 7951658177735897512
+      tundraDecoration_0_36: 8591296701882779214
+      tundraDecoration_0_17: -3339668378662992596
+      tundraDecoration_0_21: -3410467808765431672
+      tundraDecoration_0_22: -390940788217736580
+      tundraDecoration_0_38: 8893685635511007960
+      tundraDecoration_0_43: 1685860432724784174
+      tundraDecoration_0_6: -5730071375725095769
+      tundraDecoration_0_29: 3054641002848620736
+      tundraDecoration_0_4: 2604440689687774736
+      tundraDecoration_0_13: -4110787912019186355
+      tundraDecoration_0_32: -2008060413498942266
+      tundraDecoration_0_1: 6786216595486487378
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

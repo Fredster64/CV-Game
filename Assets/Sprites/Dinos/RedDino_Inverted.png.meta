@@ -96,6 +96,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -700,6 +701,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      RedDino_Inverted_10: 983045804420687105
+      RedDino_Inverted_5: 7461110555816066144
+      RedDino_Inverted_14: -5608460347985045124
+      RedDino_Inverted_8: -6055680299047835772
+      RedDino_Inverted_4: -2215926747672395655
+      RedDino_Inverted_20: -1958486545172452660
+      RedDino_Inverted_12: 8740055030887815806
+      RedDino_Inverted_7: -7776822325116881839
+      RedDino_Inverted_15: -5843079870098319866
+      RedDino_Inverted_19: 7300597799082556813
+      RedDino_Inverted_3: -2079883308220190929
+      RedDino_Inverted_21: 1370854046607413557
+      RedDino_Inverted_17: 8670914742877552644
+      RedDino_Inverted_22: 4257495181403748163
+      RedDino_Inverted_11: -9003546240050851525
+      RedDino_Inverted_0: -8580492511081320655
+      RedDino_Inverted_13: -944919921531136149
+      RedDino_Inverted_18: 2801698296376586971
+      RedDino_Inverted_1: -4337072565669893483
+      RedDino_Inverted_16: 2351775569481891217
+      RedDino_Inverted_23: 7441915235393593891
+      RedDino_Inverted_9: -1514284466289608297
+      RedDino_Inverted_6: 1552126810820543042
+      RedDino_Inverted_2: -5613631542135681640
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

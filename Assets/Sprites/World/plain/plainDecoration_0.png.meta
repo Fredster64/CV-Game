@@ -246,6 +246,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1900,6 +1901,81 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      plainDecoration_0_1: -427489378247534070
+      plainDecoration_0_12: -2500718630278112464
+      plainDecoration_0_49: 1724992238948774063
+      plainDecoration_0_32: -1327093592053091907
+      plainDecoration_0_45: 8684465112553169998
+      plainDecoration_0_4: 8815373177286128813
+      plainDecoration_0_17: -2937974102566520251
+      plainDecoration_0_53: -6486766909511004831
+      plainDecoration_0_61: -4821672610297298664
+      plainDecoration_0_57: 3962964888700954023
+      plainDecoration_0_3: -6311613335731336448
+      plainDecoration_0_38: -2382151417616080567
+      plainDecoration_0_54: 8418207653907882215
+      plainDecoration_0_27: -7911803588203831065
+      plainDecoration_0_18: -7915809126442521577
+      plainDecoration_0_22: 8013592302444224768
+      plainDecoration_0_26: -2335754149504341692
+      plainDecoration_0_0: 1924827809739232909
+      plainDecoration_0_56: 4525331023227205010
+      plainDecoration_0_64: -1617244189748231993
+      plainDecoration_0_73: 1705492545065716603
+      plainDecoration_0_15: 586516454336496345
+      plainDecoration_0_65: -1876266881508463499
+      plainDecoration_0_40: -6261702229228113800
+      plainDecoration_0_48: -1559743769930064668
+      plainDecoration_0_67: 7295764209918417982
+      plainDecoration_0_63: 3343457864770525711
+      plainDecoration_0_36: -4023617191105286049
+      plainDecoration_0_19: -2285398417075074039
+      plainDecoration_0_33: 7844339168917335972
+      plainDecoration_0_60: -2739026799131626931
+      plainDecoration_0_41: 8892777571261149770
+      plainDecoration_0_14: -320117678605200142
+      plainDecoration_0_70: -7328083442821968085
+      plainDecoration_0_35: -8956390142734852964
+      plainDecoration_0_11: -209177315860137719
+      plainDecoration_0_71: -7720731388716534409
+      plainDecoration_0_59: 4840321687585065042
+      plainDecoration_0_30: -6813645235253789480
+      plainDecoration_0_62: 887306902767393639
+      plainDecoration_0_13: 8097325323912246440
+      plainDecoration_0_47: -8598503843636578193
+      plainDecoration_0_6: 3750471304347334701
+      plainDecoration_0_39: -3282447655942055271
+      plainDecoration_0_66: 8504330728282201790
+      plainDecoration_0_10: 2091386423439617093
+      plainDecoration_0_31: -4021578844334808623
+      plainDecoration_0_46: 3428343546908963260
+      plainDecoration_0_7: -627954602530325260
+      plainDecoration_0_55: 6184399364283438783
+      plainDecoration_0_5: 4397609802092669463
+      plainDecoration_0_37: -5411725047116810270
+      plainDecoration_0_52: 4691791184814199825
+      plainDecoration_0_34: -463591886209543620
+      plainDecoration_0_44: 8274537726220354935
+      plainDecoration_0_69: 6547641066778179063
+      plainDecoration_0_2: 3444660377030543693
+      plainDecoration_0_9: 3552950642097187759
+      plainDecoration_0_68: -1767667748041757440
+      plainDecoration_0_51: -6929388234316163358
+      plainDecoration_0_23: -4813396240848810290
+      plainDecoration_0_43: -9177493094844654066
+      plainDecoration_0_50: -428436788556486846
+      plainDecoration_0_16: 2425188915426375710
+      plainDecoration_0_72: -4281865071443008813
+      plainDecoration_0_24: 7778290928029651499
+      plainDecoration_0_58: -942351233215125754
+      plainDecoration_0_20: -3156397287253967335
+      plainDecoration_0_29: -7539950207888752725
+      plainDecoration_0_25: 1810710557466604977
+      plainDecoration_0_42: 3024079363846491080
+      plainDecoration_0_8: 7077289374488550101
+      plainDecoration_0_28: -7246740113060322542
+      plainDecoration_0_21: 278426421982754039
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

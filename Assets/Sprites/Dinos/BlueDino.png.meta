@@ -168,6 +168,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -772,6 +773,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      BlueDino_11: -5948748802082622757
+      BlueDino_10: -1184359845376436088
+      BlueDino_23: -931239440287119429
+      BlueDino_17: -2047856670348643961
+      BlueDino_6: -5194694784810118730
+      BlueDino_15: -875505238176681814
+      BlueDino_1: 2519918714587557898
+      BlueDino_7: -6185024125106249626
+      BlueDino_4: 1109276433119898748
+      BlueDino_3: 8535007600356553940
+      BlueDino_12: 2698399670906424832
+      BlueDino_19: -4389806467960593296
+      BlueDino_0: -8771426054261856380
+      BlueDino_5: 3399536101582331533
+      BlueDino_18: -5402678886984873508
+      BlueDino_22: -75935857156168316
+      BlueDino_9: 8318170158593483236
+      BlueDino_14: -3284190268601835153
+      BlueDino_20: -6837344945403039424
+      BlueDino_13: -4070914282729017082
+      BlueDino_21: 200580641684935820
+      BlueDino_16: -5638445746664832663
+      BlueDino_8: -9008085892170585016
+      BlueDino_2: -7943033404155743130
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -309,6 +309,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2404,6 +2405,102 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      plainDecoration_1_85: -5233735037320889234
+      plainDecoration_1_68: -3105601591351122940
+      plainDecoration_1_92: -8257910086296753648
+      plainDecoration_1_72: -5870390340685620375
+      plainDecoration_1_11: -5472233461352512789
+      plainDecoration_1_78: -5008732081369002917
+      plainDecoration_1_50: -3235841582706630320
+      plainDecoration_1_38: 6158345685184581065
+      plainDecoration_1_74: -527957315843125488
+      plainDecoration_1_82: 6714692959546658859
+      plainDecoration_1_42: 860765927175608754
+      plainDecoration_1_52: 7192870203288050394
+      plainDecoration_1_73: -3599382404568189047
+      plainDecoration_1_12: -1004089453082695644
+      plainDecoration_1_63: -8402281842698527886
+      plainDecoration_1_91: -7933735728831567165
+      plainDecoration_1_69: 1476682204620039080
+      plainDecoration_1_5: 5571999436109949721
+      plainDecoration_1_13: -3638747263177159514
+      plainDecoration_1_33: -7463926740270391049
+      plainDecoration_1_41: -1380928012414230701
+      plainDecoration_1_57: -6672937553307208744
+      plainDecoration_1_15: 8073272558344516331
+      plainDecoration_1_87: -3899371426278541539
+      plainDecoration_1_64: 51896316676791001
+      plainDecoration_1_40: 1337227713390304222
+      plainDecoration_1_56: 4948256653525081380
+      plainDecoration_1_90: -1851375036123299624
+      plainDecoration_1_7: 3670908371992854416
+      plainDecoration_1_43: -933242121280530345
+      plainDecoration_1_67: 1836222912575087392
+      plainDecoration_1_86: 6077914108892643953
+      plainDecoration_1_39: 503638635216561217
+      plainDecoration_1_2: -1730232995269711354
+      plainDecoration_1_21: -737395747202944658
+      plainDecoration_1_14: -1781349839921761752
+      plainDecoration_1_22: 6875300178119214151
+      plainDecoration_1_58: -1757737036692748799
+      plainDecoration_1_88: -8751394230674285776
+      plainDecoration_1_8: -1020486624573098937
+      plainDecoration_1_24: 3370089438612760280
+      plainDecoration_1_27: 1061596513430305210
+      plainDecoration_1_76: -3822302317293448046
+      plainDecoration_1_44: 4946331839788627013
+      plainDecoration_1_61: 7503948098137562007
+      plainDecoration_1_66: -8791875155652191563
+      plainDecoration_1_6: -8806145367186092549
+      plainDecoration_1_94: -1215363640909991712
+      plainDecoration_1_46: 6898198177054954644
+      plainDecoration_1_1: -2452521015192975786
+      plainDecoration_1_4: -1767110269247976618
+      plainDecoration_1_31: 4400947022335749034
+      plainDecoration_1_19: -7312801487375514960
+      plainDecoration_1_80: 3094372949769986683
+      plainDecoration_1_93: -6743041197652432793
+      plainDecoration_1_62: 1965382294701007242
+      plainDecoration_1_53: -3618902598793696019
+      plainDecoration_1_16: 6753670387636209922
+      plainDecoration_1_36: 3499023641035434914
+      plainDecoration_1_45: -3442161836321015291
+      plainDecoration_1_3: -844314373367587988
+      plainDecoration_1_70: 4320054467707663963
+      plainDecoration_1_60: -3501126160460416666
+      plainDecoration_1_89: 9058696999682227037
+      plainDecoration_1_51: 2393388460682269203
+      plainDecoration_1_54: 9035006383356407567
+      plainDecoration_1_81: 3724976304134548320
+      plainDecoration_1_9: -7607617941346486324
+      plainDecoration_1_32: -7597267784381568380
+      plainDecoration_1_35: 4329189588195921585
+      plainDecoration_1_28: 5027093902401147361
+      plainDecoration_1_84: -6983484137016750789
+      plainDecoration_1_30: -4086180525661226405
+      plainDecoration_1_49: 2090070697726092422
+      plainDecoration_1_79: -8337093263437863653
+      plainDecoration_1_29: 3830621295596468789
+      plainDecoration_1_71: -3097520817947007703
+      plainDecoration_1_55: 6292110635361492630
+      plainDecoration_1_83: 853416606823468539
+      plainDecoration_1_0: 7900556730759291886
+      plainDecoration_1_37: 4307282836725225314
+      plainDecoration_1_65: 5227206517104107460
+      plainDecoration_1_20: -5049382122014814406
+      plainDecoration_1_17: 3089841339775324191
+      plainDecoration_1_18: -7113426341480915785
+      plainDecoration_1_34: 4703242101291767494
+      plainDecoration_1_75: 2807778465501791570
+      plainDecoration_1_59: 3819881039935396906
+      plainDecoration_1_26: -8296793285410226543
+      plainDecoration_1_77: -61743385051849130
+      plainDecoration_1_25: 4688835045150273075
+      plainDecoration_1_10: 1987841119584193764
+      plainDecoration_1_48: -7282700222025784323
+      plainDecoration_1_47: -4781775529035212513
+      plainDecoration_1_23: 8565839944017199404
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -96,6 +96,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -700,6 +701,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      GreenDino_Inverted_1: -5586440279315988681
+      GreenDino_Inverted_10: 6038760441471266258
+      GreenDino_Inverted_17: -1217207769459261402
+      GreenDino_Inverted_20: 688623998258884418
+      GreenDino_Inverted_22: 610270505641668316
+      GreenDino_Inverted_11: 5437001719090586145
+      GreenDino_Inverted_2: 969799133857242587
+      GreenDino_Inverted_5: 6870729284682985875
+      GreenDino_Inverted_7: -6524031538797438140
+      GreenDino_Inverted_13: 1124710482784699020
+      GreenDino_Inverted_19: 8796965550602210797
+      GreenDino_Inverted_14: 8066096822344704874
+      GreenDino_Inverted_18: 6707328259325813248
+      GreenDino_Inverted_8: 2753516144742804008
+      GreenDino_Inverted_4: 7203257894292362422
+      GreenDino_Inverted_0: -4736353784381706563
+      GreenDino_Inverted_16: -6871673067948704538
+      GreenDino_Inverted_23: 1710261143474240469
+      GreenDino_Inverted_3: 2505746151330344923
+      GreenDino_Inverted_9: 3351270508603855941
+      GreenDino_Inverted_6: -3404752657790188597
+      GreenDino_Inverted_15: -4191121491540184447
+      GreenDino_Inverted_12: 5842332479499033390
+      GreenDino_Inverted_21: 2828692265158851435
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

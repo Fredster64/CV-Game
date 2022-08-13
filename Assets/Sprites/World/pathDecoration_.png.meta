@@ -120,6 +120,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -892,6 +893,39 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      pathDecoration__7: 6373803772050792257
+      pathDecoration__24: 4831504063031066227
+      pathDecoration__15: 996048676334071807
+      pathDecoration__2: -5541942911026131039
+      pathDecoration__27: -2754994211210713188
+      pathDecoration__14: -574166036724165003
+      pathDecoration__0: -8058923564460729048
+      pathDecoration__10: 3613640659352163380
+      pathDecoration__29: 8630864754012140633
+      pathDecoration__1: -4083485267752740966
+      pathDecoration__19: -7573374011297868896
+      pathDecoration__26: 8822281920132051631
+      pathDecoration__17: -460039637214507359
+      pathDecoration__22: 6591218703088912443
+      pathDecoration__11: 981358618802858814
+      pathDecoration__18: -678565029466214086
+      pathDecoration__4: 2709608105079588337
+      pathDecoration__16: 3717466931355142702
+      pathDecoration__6: 3125798776592777055
+      pathDecoration__28: -6736724793664245541
+      pathDecoration__31: -8725714245219614798
+      pathDecoration__3: 1226847954816620122
+      pathDecoration__30: -8157745772004494458
+      pathDecoration__13: -278620673876879864
+      pathDecoration__23: 1899691417371488936
+      pathDecoration__25: -575588934955894595
+      pathDecoration__5: -2437097650951243609
+      pathDecoration__9: 6244848909095433758
+      pathDecoration__20: 4242118147566649969
+      pathDecoration__21: -1082244161335334183
+      pathDecoration__8: 5863151359240112959
+      pathDecoration__12: -1323357973028479708
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
