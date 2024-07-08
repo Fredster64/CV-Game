@@ -2066,7 +2066,7 @@ MonoBehaviour:
   winMessage: {fileID: 112824494}
   NPCsTalkedToCounter: {fileID: 1835183349}
   numberOfNPCsText: {fileID: 1212751242}
-  numberOfNPCs: 6
+  numberOfNPCs: 8
 --- !u!1 &101591042
 GameObject:
   m_ObjectHideFlags: 0
@@ -2123,7 +2123,7 @@ PrefabInstance:
       objectReference: {fileID: 4842234950849876231, guid: a118d854f46a5784d8b4779b9c4b9fc1, type: 3}
     - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2195,7 +2195,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: characterLines.Array.size
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: characterLines.Array.data[0]
@@ -2214,15 +2214,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: characterLines.Array.data[3]
-      value: Freddie also works as a freelance Guides Writer for TheGamer, putting
-        his excellent knowledge of video games to good use.
-      objectReference: {fileID: 0}
-    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
-      propertyPath: characterLines.Array.data[4]
       value: I wish I could do all that...
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[4]
+      value: ...but all I'm good at is standing here and bobbing up and down.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: characterLines.Array.data[5]
+      value: ...but all I'm good at is standing here and bobbing up and down.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[6]
       value: ...but all I'm good at is standing here and bobbing up and down.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -2255,8 +2258,8 @@ RectTransform:
   m_GameObject: {fileID: 112824490}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1.3, y: 1.3, z: 1.3}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2123017215}
   - {fileID: 1044614667}
@@ -2268,9 +2271,9 @@ RectTransform:
   m_Father: {fileID: 289826684}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 1}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -117.7, y: -199.27}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -36.95}
   m_SizeDelta: {x: 404.16, y: 345.37}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &112824492
@@ -2684,7 +2687,7 @@ PrefabInstance:
       objectReference: {fileID: 1273832822001934123, guid: 3d4da7d7697e62f4a81d85822b6c15f5, type: 3}
     - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2780,8 +2783,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: characterLines.Array.data[6]
-      value: Yes... C#, Java, C++, Python, JavaScript/Typescript, React, CSS, WordPress
-        - he knows them all!
+      value: Yes... Unity, Godot, C#, Java, C++, Python, JavaScript/Typescript -
+        he knows them all!
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: characterLines.Array.data[7]
@@ -9468,6 +9471,142 @@ TilemapCollider2D:
   m_Offset: {x: 0, y: 0}
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0.00001
+--- !u!1001 &936495420
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2046864438}
+    m_Modifications:
+    - target: {fileID: 9064644676243663009, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_Name
+      value: Doppel
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663010, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 4644862a81064944d92923bbd0b84de0, type: 2}
+    - target: {fileID: 9064644676243663011, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6416310528898464556, guid: eebd2a23ffdabf54294356425a829c94, type: 3}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 27.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 901867815}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: talkingRange
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterName
+      value: Doppel
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: dialogueBoxColor.a
+      value: 0.92156863
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: dialogueBoxColor.b
+      value: 0.7372549
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: dialogueBoxColor.g
+      value: 0.57254905
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: dialogueBoxColor.r
+      value: 0.3019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[0]
+      value: Wow - you look just like me! We must have a special connection or something?
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[1]
+      value: That reminds me of Freddie and his deep connection with video games,
+        in a weird way...
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[2]
+      value: Freddie has played video games throughout his life, with fond memories
+        of enjoying them with his brothers.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[3]
+      value: He has written about Game Design on his blog and also spent some time
+        writing articles for TheGamer.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[4]
+      value: At TheGamer, he put his knowledge to good use writing guides for various
+        games he was playing.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[5]
+      value: Personally, I'd love to be a video game character - but nothing like
+        that ever happens here...
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[6]
+      value: Personally, I'd love to be a video game character - but nothing like
+        that ever happens here...
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[7]
+      value: Personally, I'd love to be a video game character - but nothing like
+        that ever happens here...
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
 --- !u!1 &1004629153
 GameObject:
   m_ObjectHideFlags: 0
@@ -9890,6 +10029,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1155796947}
   m_CullTransparentMesh: 1
+--- !u!4 &1167127476 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+  m_PrefabInstance: {fileID: 936495420}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1212751240
 GameObject:
   m_ObjectHideFlags: 0
@@ -10222,6 +10366,141 @@ CanvasRenderer:
 Transform:
   m_CorrespondingSourceObject: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
   m_PrefabInstance: {fileID: 1631982272}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1353287827
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2046864438}
+    m_Modifications:
+    - target: {fileID: 9064644676243663009, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_Name
+      value: Marco
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663010, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 024a813e96b307543bd5786cbf0f7200, type: 2}
+    - target: {fileID: 9064644676243663011, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 8507236524298765544, guid: 6bccd5190943d6c42a1ff92e55e620fe, type: 3}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 901867815}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterName
+      value: Marco
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: dialogueBoxColor.a
+      value: 0.92156863
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: dialogueBoxColor.b
+      value: 0.30980393
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: dialogueBoxColor.g
+      value: 0.3019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: dialogueBoxColor.r
+      value: 0.7372549
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[0]
+      value: 'At Wix Games, Freddie was part of a small team that created Duck Life
+        9: The Flock from scratch!'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[1]
+      value: 'During development he had many roles, such as: gameplay programming,
+        animation, level design, and mobile/Switch porting!'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[2]
+      value: His favourite job was writing dialogue for over 100 characters in the
+        game.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[3]
+      value: He took inspiration from some of his favourite games, like Spyro The
+        Dragon and Animal Crossing.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[4]
+      value: Freddie dreamed of being a Game Developer since he was a hatchling -
+        and he made it happen!
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[5]
+      value: ...what do you mean, "humans don't hatch from eggs"?
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[6]
+      value: How are they made then, smarty-pants?
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[7]
+      value: ...oh.
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+--- !u!4 &1353287828 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+  m_PrefabInstance: {fileID: 1353287827}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1406552758
 GameObject:
@@ -11252,7 +11531,7 @@ PrefabInstance:
       objectReference: {fileID: 9134597473894857464, guid: a118d854f46a5784d8b4779b9c4b9fc1, type: 3}
     - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11393,7 +11672,7 @@ PrefabInstance:
       objectReference: {fileID: 8507236524298765544, guid: 6bccd5190943d6c42a1ff92e55e620fe, type: 3}
     - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11477,7 +11756,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: characterLines.Array.data[3]
-      value: He also enjoys playing the piano, and reading - poetry is his favourite.
+      value: He also enjoys painting Warhammer, and reading - poetry is his favourite.
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: characterLines.Array.data[4]
@@ -11517,7 +11796,7 @@ PrefabInstance:
       objectReference: {fileID: -2079883308220190929, guid: b46d1195a2729794f926c038f4496896, type: 3}
     - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663012, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12537,9 +12816,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1624355601}
+  - {fileID: 1353287828}
   - {fileID: 278179299}
   - {fileID: 1293657199}
   - {fileID: 1572227729}
+  - {fileID: 1167127476}
   - {fileID: 1652835367}
   - {fileID: 321144869}
   m_Father: {fileID: 0}
@@ -28152,7 +28433,7 @@ PrefabInstance:
       objectReference: {fileID: 901867815}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: talkingRange
-      value: 2
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: dialogueBoxColor.a
@@ -28180,16 +28461,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: characterLines.Array.data[2]
-      value: He has been a fan of gaming since he was very young, and now writes
-        about Game Design on his personal blog.
+      value: He has been a fan of gaming since he was very young, and now is an experienced
+        Game Developer at Wix Games.
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: characterLines.Array.data[3]
-      value: He participated in multiple Game Jams and has become confident with
-        Unity in his spare time.
+      value: He has collected years' worth of experience with Unity and Godot in
+        his spare time, and enjoys writing and gameplay programming.
       objectReference: {fileID: 0}
     - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
       propertyPath: characterLines.Array.data[4]
+      value: Make sure you talk to the rest of us to find out about Freddie's other
+        skills and interests!
+      objectReference: {fileID: 0}
+    - target: {fileID: 9064644676243663014, guid: 5775393643d09d44e97b5d4d12b31005, type: 3}
+      propertyPath: characterLines.Array.data[5]
       value: Make sure you talk to the rest of us to find out about Freddie's other
         skills!
       objectReference: {fileID: 0}

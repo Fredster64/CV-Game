@@ -9,6 +9,8 @@ public class TalkableController : MonoBehaviour
     public GameObject talkPrompt;
     public Color dialogueBoxColor;
     public string characterName;
+
+    [TextArea(5, 7)]
     public string[] characterLines;
 
     private bool talkable;
